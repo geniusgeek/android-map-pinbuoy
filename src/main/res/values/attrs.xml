@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Pinbuoy">
+        <attr name="pinMarkerDrawable" format="reference"/>
+        <attr name="backgroundDrawable" format="reference"/>
+        <attr name="ribbonDrawable" format="reference"/>
+        <attr name="progressBarDrawable" format="reference"/>
+        <attr name="proceedBackgroundDrawable" format="reference"/>
+        <attr name="proceedImageSrc" format="reference"/>
+        <attr name="realTimeText" format="string"/>
+        <attr name="realTimeTextBackgroundDrawable" format="reference"/>
+        <attr name="titleText" format="string"/>
+        <attr name="deepColor" format="color|reference"/>
+        <attr name="ribbonColor" format="color|reference"/>
+        <attr name="lightColor" format="color|reference"/>
+        <attr name="textColor" format="color|reference"/>
+      </declare-styleable>
+</resources>

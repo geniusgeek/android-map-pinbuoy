@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00ffffff</color>
+    <color name="light_purple">#df8fc7</color>
+    <color name="dark_purple">#d26aa1</color>
+    <color name="deep_purple">#b84381</color>
+    <color name="red_purple">#900c3f</color>
+    <color name="strong_red">#cf0039</color>
+    <color name="google_plus_color">#dd4b39</color>
+    <color name="cool_red">#e25851</color>
+    <color name="cool_blue">#5099a0</color>
+    <color name="cool_green">#64c870</color>
+    <color name="cool_yellow">#e29551</color>
+    <color name="light_red">#ff857e</color>
+    <color name="light_yellow">#ffcfa4</color>
+    <color name="light_blue">#b7e0e4</color>
+    <color name="light_gray">#efefef</color>
+    <color name="dark_textcolor">#bebebe</color>
+    <color name="light_white">#f8f8f8</color>
+    <color name="deep_white">#fbfbfb</color>
+    <color name="background_white">#fefefe</color>
+    <color name="emp_green">#00AB6B</color>
+    <color name="text_emp_green">#19cf88</color>
+    <color name="lighttextcolor">#e7e7e7</color>
+    <color name="boldtextcolor">#dcdcdc</color>
+    <color name="black_overlay">#99000000</color>
+    <color name="white_overlay">#eeffffff</color>
+    <color name="shadow">#555555</color>
+ </resources>
